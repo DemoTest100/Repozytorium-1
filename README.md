@@ -1,2 +1,2 @@
 # Dokumenty-1-
-Testowanie repozytorium 2022
+Przykładowe testowanie w repozytorium i poznanie funkcji Github.  
